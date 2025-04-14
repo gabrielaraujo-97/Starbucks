@@ -41,7 +41,7 @@ Bem-vindo ao repositório do **Site do Starbucks**, um projeto de página estát
 ## 🙋‍♂️ Autor
 
 Feito com 💚 por **Gabriel Araújo**  
-🔗 [Meu GitHub](https://github.com/gabrielaraujo-97)
+🔗 [Linkedin](https://www.linkedin.com/in/gabrielbaraujo/)
 
 ---
 
