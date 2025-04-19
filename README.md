@@ -24,7 +24,6 @@ Bem-vindo ao repositório do **Site do Starbucks**, um projeto de página estát
 
 ## 🎯 Objetivos do Projeto
 
-- Praticar conceitos de **responsividade**
 - Aplicar **animações e transições**
 - Trabalhar com **design moderno**
 - Reforçar habilidades com **HTML, CSS e JS**
